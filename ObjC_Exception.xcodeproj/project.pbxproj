@@ -126,6 +126,7 @@
 				TargetAttributes = {
 					0E8FEBAA1C78691E003B37ED = {
 						CreatedOnToolsVersion = 7.2.1;
+						LastSwiftMigration = 0820;
 					};
 				};
 			};
@@ -288,6 +289,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "ObjC_Exception/sample/ObjC_Exception-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -301,6 +303,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mikeneko-app.ObjC-Exception";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "ObjC_Exception/sample/ObjC_Exception-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
